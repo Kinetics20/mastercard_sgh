@@ -2,9 +2,9 @@ from pathlib import Path
 
 import pandas as pd
 
-
 RAW_DIR = Path(__file__).resolve().parent.parent.parent / "data" / "raw"
 PROCESSED_DIR = Path(__file__).resolve().parent.parent.parent / "data" / "processed"
+
 
 def convert_json_to_parquet(filename: Path, output_name: str | None = None) -> None:
     """Load line-delimited JSON and save as parquet."""
