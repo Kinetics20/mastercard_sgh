@@ -1,10 +1,9 @@
 # mastercard_challenge
 
-<a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
-    <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
-</a>
 
-A short description of the project.
+
+A short description of the project :
+[Datasets](https://www.kaggle.com/competitions/sgh-x-mastercard-hackathon-may-2025)
 
 ## Project Organization
 

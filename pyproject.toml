@@ -23,6 +23,7 @@ dependencies = [
     "numpy>=2.2.6",
     "pandas>=2.2.3",
     "pip",
+    "plotly>=6.1.2",
     "pyarrow>=20.0.0",
     "pytest",
     "python-dotenv",
